@@ -20,16 +20,8 @@
 <br>
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitinLigo&theme=dark"/>
-      </td>
-      <td style="border: none;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitinLigo&theme=dark"/>
-      </td>
-    </tr>
-  </table>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitinLigo&theme=dark" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitinLigo&theme=dark" height="180"/>
 </div>
 
 <br>
@@ -47,13 +39,8 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vitor-daniel-rosa-fernandes/">
-    <img height="35" src="https://img.shields.io/badge/LinkedIn-1a5276?style=for-the-badge&logo=linkedin&logoColor=1db954"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/gPEPptDWJc">
-    <img height="35" src="https://img.shields.io/badge/Discord-1a5276?style=for-the-badge&logo=Discord&logoColor=1db954"/>
-  </a>
+  <a href="https://www.linkedin.com/in/vitor-daniel-rosa-fernandes/"><img height="35" src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+  <a href="https://discord.gg/gPEPptDWJc"><img height="35" src="https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff"/></a>
 </div>
 
 <br>
