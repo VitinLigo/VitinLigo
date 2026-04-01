@@ -1,35 +1,125 @@
-## Olá! Eu sou o Vitor. 👋
-
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
- <div>
-  (https://github-readme-stats.vercel.app/api?username=VitinLigo)](https://github.com/VitinLigo/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitinLigo&show_icons=true&theme=drk&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinLigo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+<div align="center">
+  <samp>
+    <br>
+    Olá! Sou o Vitor Daniel.
+  </samp>
 </div>
 
-  ##
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=F7F7F7&center=true&width=435&lines=Seja+bem+vindo(a)!;Sou+estudante+de+Eng.+de+Software.;Foco+em+Backend+e+APIs." alt="Typing SVG" />
+  </a>
+</div>
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitinLigo&theme=dark"/>
+</div>
 
+<br>
+
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitinLigo&theme=dark"/>
+      </td>
+      <td style="border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitinLigo&theme=dark"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="<div align="center">
+  <samp>
+    <br>
+    Olá! Sou o Vitor Daniel.
+  </samp>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=F7F7F7&center=true&width=435&lines=Seja+bem+vindo(a)!;Sou+estudante+de+Eng.+de+Software.;Foco+em+Backend+e+APIs." alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitinLigo&theme=dark"/>
+</div>
+
+<br>
+
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitinLigo&theme=dark"/>
+      </td>
+      <td style="border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitinLigo&theme=dark"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil/">
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-1a5276?style=for-the-badge&logo=linkedin&logoColor=1db954"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/gPEPptDWJc">
+    <img height="35" src="https://img.shields.io/badge/Discord-1a5276?style=for-the-badge&logo=Discord&logoColor=1db954"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VitinLigo&style=flat-square&color=1db954" />
+</div>">
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-1a5276?style=for-the-badge&logo=linkedin&logoColor=1db954"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/seu-servidor/">
+    <img height="35" src="https://img.shields.io/badge/Discord-1a5276?style=for-the-badge&logo=Discord&logoColor=1db954"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VitinLigo&style=flat-square&color=1db954" />
 </div>
