@@ -1,6 +1,5 @@
 <div align="center">
   <samp>
-    <br>
     Olá! Sou o Vitor Daniel.
   </samp>
 </div>
